@@ -1,0 +1,141 @@
+body{
+   
+}
+
+.header{
+    /* background-image: url(utils/images/hero-bg-desktop.jpg); */
+    color: cornsilk;
+}
+.h1{
+    font-size: 20px;
+    color: white;
+    font-size: 35px;
+}
+.booking{
+    background-color: white;
+    position: relative;
+    top: 0;
+    left: 0;
+     /* margin-bottom: 35em;  */
+    /* margin-top: 2em; */
+
+
+}
+table{
+    width:100%;
+    height: 80px;
+    color: blanchedalmond;
+    table-layout: 35;
+    background-color: black;
+    
+}
+.class{
+    position: absolute;
+    top: 80px;
+    left: 210px;
+    color: white;
+}
+.h2{
+    font-size: 10px;
+    color: blanchedalmond;
+
+}
+
+td{
+    row: gap 30px; 
+}
+#input-form{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    height: 12rem;
+    width: 20rem;
+    margin-top: 10rem;
+    color: black;
+}
+
+.reservation{
+    width: 10em;
+    margin-left: 4rem;
+    /* background-color: #000; */
+    color: black;
+    line-height: 1em;
+
+}
+button{
+    color: blanchedalmond;
+    background-color: black;
+    display: flex;
+    direction: centre;
+    justify-content: center;
+}
+.parent-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-image: url(utils/images/hero-bg-desktop.jpg) ;
+    height: 40%;
+    color: white;
+}
+.line{
+    margin-left: 2em;
+    padding-bottom: 1em;
+}
+.make{
+width: 18rem;
+padding-left:2em;
+height: 6rem;
+cursor: pointer;
+font-size: 1em;
+text-align: center;
+margin-left: 1em;
+}
+
+.next{
+    position:relative ;
+     
+}
+.nest{
+    position: absolute;
+    top: 150px;
+    left: 35em;
+
+}
+.icon{
+margin: left 5px;em;
+color: black;
+}
+.bell{
+    color: black;
+    margin-left: 1em;
+    height: 2em;
+    width:80% ;
+}
+.book{
+    color: black;
+    margin-left: 1em;
+    height: 2em;
+}
+.book1{
+    margin-left: 1em;
+    height: 2em;
+}
+
+
+.style{
+    color: black;
+}
+#button{
+    width: 4em;
+}
+#pre{
+    text-align: center;
+}
+path{
+    padding-left:25em ;
+}
+.xmlns{
+    display:relative ;
+    padding-bottom: 10em;
+}
+
